@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Im currently studying computer science at the University of Lethbridge hoping to focus into networking in the future.
+
+Fun Fact: I am on the varsity swim team at university and Rock Climb in my free time.
+
 <!--
 **KamBrill/KamBrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
