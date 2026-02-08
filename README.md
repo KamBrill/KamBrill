@@ -1,8 +1,14 @@
 ## Hi there 👋
 
-Im currently studying computer science at the University of Lethbridge hoping to focus into networking in the future.
+**Network Engineer in Training | Computer Science Student | Assistant Systems Administrator**
 
-Fun Fact: I am on the varsity swim team at university and Rock Climb in my free time.
+I'm a Computer Science student building a career in network engineering through hands-on learning. Currently working as an Assistant Systems Administrator at the University of Lethbridge while running a homelab to experiment with real-world infrastructure. Passionate about networking, automation, and containerization.
+
+## **Current Focus**
+- ** Education:** Computer Science Student @ University of Lethbridge
+- ** Role:** Assistant Systems Administrator @ University of Lethbridge IT Services
+- ** Homelab:** Building enterprise-like network environments at home
+- ** Goal:** Transition into networking
 
 <!--
 **KamBrill/KamBrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
